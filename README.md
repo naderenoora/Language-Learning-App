@@ -9,7 +9,7 @@ The Language Learning App is a comprehensive platform designed to help users lea
 - **Vocabulary Builder**: Learn new words and phrases with spaced repetition to improve retention.
 - **Speech Recognition**: Practice pronunciation with speech recognition features.
 - **Progress Tracking**: Keep track of your learning progress and set personal goals.
-- **Multiple Languages**: Support for multiple languages, including English, Spanish, French, German, and more.
+- **Multiple Languages**: Support for multiple languages, including English, Spanish, French, German,, and more.
 - **Offline Mode**: Access lessons and vocabulary even without an internet connection.
 
 ## Technologies Used
